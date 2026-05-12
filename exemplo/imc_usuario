@@ -1,0 +1,8 @@
+#include <stdio.h> 
+
+int main () {
+
+    //variaveis
+    int peso = 0;
+    
+
