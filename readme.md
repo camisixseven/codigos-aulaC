@@ -4,10 +4,10 @@
 
 ## lista de itens que foram abordados
 
--declaração de **variáveis**
+- declaração de **variáveis**
 
--estrutura de controle **if-else**
+- estrutura de controle **if-else**
 
--estrutura de repetição **for, while, do-while**
+- estrutura de repetição **for, while, do-while**
 
--trabalhar com **vetores**
+- trabalhar com **vetores**
